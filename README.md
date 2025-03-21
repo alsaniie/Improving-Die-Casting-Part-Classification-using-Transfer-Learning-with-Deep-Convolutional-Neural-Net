@@ -16,3 +16,4 @@ Product quality is a crucial factor in the manufacturing process today, as it de
 ![Misclassification](https://github.com/user-attachments/assets/79a59c78-50a7-4b4f-b3dd-7ab4f2afff36)
 
 # To Cite my Work:
+SANI A, Rahman K, Nuruzzaman M, Rahman M Improving Die-Casting Part Classification using Transfer Learning with Deep Convolutional Neural Networks. In 7th IEOM Bangladesh International Conference on Industrial Engineering and Operations Management 2024 Dec 21, https://doi.org/10.46254/BA07.20240233.
