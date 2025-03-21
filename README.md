@@ -3,14 +3,16 @@ Product quality is a crucial factor in the manufacturing process today, as it de
 # Methodology:
 ![Systematic-workflow-to-analyze-datasets-preprocessing-selecting-models-and-evaluating_W640](https://github.com/user-attachments/assets/618bd7fd-38dc-44d0-acb2-6e56843fb187)
 
-![The-architecture-of-the-DL-model-used-for-improving-die-casting-part-Classification_W640](https://github.com/user-attachments/assets/5bf73704-dff9-4941-a1e3-85833a2c29d0)
+![Cnn_Draw](https://github.com/user-attachments/assets/1cb7d0a2-e7d3-4b41-b4d0-c663c0ff239a)
 
 # Result:
-![Summary-of-the-performance-of-all-models-with-the-loss-matrix-binary-cross-entropy_W640](https://github.com/user-attachments/assets/55ec9eb0-6a5c-4e21-aad5-e15bf1a0e2b2)
+![image](https://github.com/user-attachments/assets/10697d79-7889-429f-b787-326ea91d951e)
 
-![The-summarized-description-of-the-ablation-study-of-our-custom-CNN-model_W640](https://github.com/user-attachments/assets/d6ed5e61-0e81-4d40-9ab6-b39f45366b08)
+![image](https://github.com/user-attachments/assets/d5563915-759e-4d0e-ae3c-3d1e1e8667b0)
 
-![Comparison-of-our-proposed-Custom-CNN-model-with-state-of-art-techniques_W640](https://github.com/user-attachments/assets/80e389e7-c860-4dd8-a8c1-9db22f0959a3)
+![image](https://github.com/user-attachments/assets/e57769f1-25e5-4790-98eb-1dc45fb478cb)
 
+# Misclassification:
+![Misclassification](https://github.com/user-attachments/assets/79a59c78-50a7-4b4f-b3dd-7ab4f2afff36)
 
-
+# To Cite my Work:
